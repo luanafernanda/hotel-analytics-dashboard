@@ -7,9 +7,9 @@ and guest satisfaction for a 120-room 4-star hotel in Lisbon, Portugal.
 
 ## 📸 Dashboard Preview
 
-![Revenue Overview](revenue-overview.jpeg)
-![Channel Analytics](channel-analytics.jpeg)
-![Reputation Analytics](reputation-analytics.jpeg)
+![Revenue Overview](screenshots/revenue-overview.jpeg)
+![Channel Analytics](screenshots/channel-analytics.jpeg)
+![Reputation Analytics](screenshots/reputation-analytics.jpeg)
 
 ---
 
